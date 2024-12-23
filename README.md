@@ -1,3 +1,5 @@
+[![Playwright Tests](https://github.com/ferrata/playwright-github/actions/workflows/playwright.yml/badge.svg)](https://github.com/ferrata/playwright-github/actions/workflows/playwright.yml)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
